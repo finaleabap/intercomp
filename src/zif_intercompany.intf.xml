@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_INTERCOMPANY</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Intercomapny Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CHECK_AND_MAP</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Veri Mapleme Ve Kontrol etme</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CHECK_STATUS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Veri Kontrolü</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_BELGEGECMIS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CHECK_BAPI</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Açıklama</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_COLLAPSE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_EXPAND</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_FATYOK</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_KAYITBEK</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_KAYITHAT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_KAYITTMM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_SECIM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Metin alanları içersindeki ikonlar ( Yedek görüntü, kod)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Veri Çekme</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LOG</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Güncel Log Getir</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_LOG_LIST</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Güncel Log Getir</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_MK</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Masraf Kaydı Detail</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_TESLIMAT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Veri Çekme</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>OTOMATIK_KAYIT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>AH -&gt; MK</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>POST_MK</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Masraf Kaydı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>POST_SMM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>SMM kaydı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>POST_YM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Yoldaki mallar kaydı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>REVERSE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Ters kayıt</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>REVERSE_MK</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Masraf Ters Kaydı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>REVERSE_SMM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TK SMM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>REVERSE_YM</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TK Yoldaki Mallar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_LOG</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Kayıtları Logla</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TES_KAPAT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Teslimat Kapat</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_STATUS</CMPNAME>
+     <SCONAME>EV_ERR</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_STATUS</CMPNAME>
+     <SCONAME>IV_VBELN_VL</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Teslimat</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LOG</CMPNAME>
+     <SCONAME>RS_LOG</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Intercomany Log Tablosu</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_LOG_LIST</CMPNAME>
+     <SCONAME>RT_LOG</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Intercomany Log Tablosu</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>POST_YM</CMPNAME>
+     <SCONAME>RT_MESSAGE</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Return table</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>REVERSE</CMPNAME>
+     <SCONAME>RT_MESSAGE</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SET_LOG</CMPNAME>
+     <SCONAME>RV_OK</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tek basamaklı gösterge</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

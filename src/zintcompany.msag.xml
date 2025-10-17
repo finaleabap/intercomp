@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZINTCOMPANY</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+    <STEXT>Intercompany Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp; Belgesine ters kayıt alınmıştır.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>İşlem için sadece 1 adet kayıt atabilirsiniz!.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Lütfen önce &amp; kaydını atınız.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Lütfen &amp; alanını boş geçmeyiniz!.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Teslimat kapanmıştır. Başka bir işlem gerçekleştirilemez!.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Ters kayıt alabilmeniz için &amp; kaydının olmaması gerekiyor!.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Lütfen satır seçiniz!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>&amp; referans belgesi için &amp; satıcısına daha önceden kayıt atılmıştır!.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZINTCOMPANY</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>&amp; Şirket Kodu için yetkiniz bulunmamaktadır!</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

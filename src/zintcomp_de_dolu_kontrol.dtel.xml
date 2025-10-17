@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZINTCOMP_DE_DOLU_KONTROL</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>XFIELD</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Doluluk Kontrol</DDTEXT>
+    <REPTEXT>Doluluk Kontrol</REPTEXT>
+    <SCRTEXT_S>Dolu Kntrl</SCRTEXT_S>
+    <SCRTEXT_M>Doluluk Kontrol</SCRTEXT_M>
+    <SCRTEXT_L>Doluluk Kontrol</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Fill Control</DDTEXT>
+     <REPTEXT>Fill Control</REPTEXT>
+     <SCRTEXT_S>Fill Contr</SCRTEXT_S>
+     <SCRTEXT_M>Fill Control</SCRTEXT_M>
+     <SCRTEXT_L>Fill Control</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
